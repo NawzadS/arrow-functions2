@@ -1,0 +1,38 @@
+/* CSS generated with AI assistance and edited by Nawzad */
+.header {
+  background: #111827;
+  color: white;
+  padding: 16px 0;
+}
+
+.header__inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.header__logo {
+  font-size: 20px;
+  margin: 0;
+  letter-spacing: 0.5px;
+}
+
+.header__nav {
+  display: flex;
+  gap: 14px;
+}
+
+.header__nav a {
+  color: #e5e7eb;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.header__nav a:hover {
+  color: white;
+  text-decoration: underline;
+}

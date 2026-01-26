@@ -1,0 +1,28 @@
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.sectionTitle {
+  margin: 18px 0 12px;
+  font-size: 20px;
+  color: #111827;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.about {
+  padding: 18px 0;
+  background: #ffffff;
+}
+
+.aboutText {
+  margin: 0;
+  color: #374151;
+  line-height: 1.6;
+}
